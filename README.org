@@ -1,0 +1,3 @@
+* Dictionary
+
+A dead simple CLI for looking up words on OS X.
